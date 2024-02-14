@@ -8,3 +8,7 @@ It's been an eye-opening experience exploring how data-driven insights can enhan
 A huge thank you to the incredible team at Prodigy for their continuous support and mentorship throughout this journey. I'm excited to apply these learnings to future projects and contribute to innovative solutions in the retail industry.**
 
 #DataAnalysis #CustomerSegmentation #RetailAnalytics #InternshipExperience #Prodigy #KMeansClustering
+
+https://github.com/Yuvaramesh/PRODIGY_ML_02/assets/122080340/0557e0a5-40c2-4ed4-9221-ec45b1d6c399
+
+

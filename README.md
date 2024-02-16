@@ -9,6 +9,8 @@ A huge thank you to the incredible team at Prodigy for their continuous support 
 
 #DataAnalysis #CustomerSegmentation #RetailAnalytics #InternshipExperience #Prodigy #KMeansClustering
 
-https://github.com/Yuvaramesh/PRODIGY_ML_02/assets/122080340/0557e0a5-40c2-4ed4-9221-ec45b1d6c399
+
+
+<a href="https://github.com/Yuvaramesh/PRODIGY_ML_02/assets/122080340/0557e0a5-40c2-4ed4-9221-ec45b1d6c399"> Clone</a>
 
 

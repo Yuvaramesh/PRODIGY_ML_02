@@ -1,6 +1,6 @@
 # PRODIGY_ML_02
 
-### 🔍 Another Milestone Achieved! 🔍
+#### 🔍 Another Milestone Achieved! 🔍
 
 **Exciting news to share! 🚀 I've successfully completed Task 2 of my virtual internship at Prodigy!
 In this phase of the project, I've delved into the fascinating world of customer segmentation using K-means clustering. 🛍️ By analyzing the purchase history of customers at a retail store, I've employed advanced clustering techniques to group them based on their shopping behaviors and preferences.
